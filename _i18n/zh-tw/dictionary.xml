@@ -442,9 +442,7 @@ HA 配對：節點中的 18 個 ^1^</block>
   <block id="9f71cb3204a7c80e435b6337aed1e728" category="cell">256 TiB</block>
   <block id="6c3b49ddb811c2d88edee86163680009" category="section-title">節點型授權限制</block>
   <block id="d017aa906544a3348ee35d75ebb10b72" category="paragraph">下列磁碟限制適用於Cloud Volumes ONTAP 使用節點型授權的支援系統、這是前一代授權模式、可讓您依Cloud Volumes ONTAP 節點授權使用。現有客戶仍可使用節點型授權。</block>
-  <block id="52960fb5a2829740ddef9c61b6015d59" category="list-text">如果您使用節點型授權、可以針對Cloud Volumes ONTAP 一個以節點為基礎的系統購買多個節點型授權、以分配超過3668 TiB的容量。</block>
   <block id="275e3ef1a302e67e93bcf0f30d566f74" category="inline-link">瞭解如何將額外的系統授權新增Cloud Volumes ONTAP 至功能完善</block>
-  <block id="05c9b06fc32318d0689c553219a9d496" category="paragraph">單一節點系統或 HA 配對可購買的授權數量不受限制。請注意、磁碟限制可能會讓您無法單獨使用磁碟來達到容量限制。您可以超越磁碟限制<block ref="aea0958203307daa433f894622f3e640" category="inline-link-rx"></block>。<block ref="ca37ce4dde5616ef242d545490c7e6ee" category="inline-link-rx"></block>。</block>
   <block id="fff4bb20e652c529e2e22e76e56ed9b5" category="section-title">單一節點搭配PAYGO Premium</block>
   <block id="40959eff270cd482e3813b16716a7ee3" category="cell">21 ^1^</block>
   <block id="c7867e37fc822edce03899d5be8cd610" category="cell">19 ^2^</block>
@@ -454,7 +452,6 @@ HA 配對：節點中的 18 個 ^1^</block>
   <block id="cabc996760a00c42a2b15b388054d050" category="cell">最多可容納多個授權的系統容量</block>
   <block id="bb49543449782c0f1b87b3ef8f49a6be" category="cell">*單獨磁碟*</block>
   <block id="e3185eb0708df4883935910ebf26f8db" category="cell">*磁碟+資料分層*</block>
-  <block id="f94f9afeacfc431720c782db2e1d8809" category="cell">每個授權使用368TiB</block>
   <block id="9dbb7f356b08de585f6ddbe523e4a8d8" category="section-title">HA與PAYGO Premium配對</block>
   <block id="156b98ab4634edb024f99442726e3e8d" category="cell">18^1^</block>
   <block id="dee0912fefbe003d7ae380d371a87fad" category="cell">16^2^</block>
@@ -705,4 +702,7 @@ HA 配對：節點中的 18 個 ^1^</block>
   <block id="2de7023f95c4ec26ccc423bd34c3771c" category="paragraph">如果您有執行 3.9.26 版或更新版本的 Connector 、則所有雲端供應商都可以使用 9.13.1 P1 修補程式 Cloud Volumes ONTAP 。BlueXP會提示您將現有系統升級至此修補程式版本。</block>
   <block id="a9380d77cd3c45a5f15f09b231323443" category="inline-link-macro">檢視 P1 修補程式中修正的錯誤清單</block>
   <block id="a381b8f37c04a51537dbe6d9053cfbbb" category="paragraph"><block ref="ccefc7f2c29a122e93c4f12a5703f3ec" category="inline-link-macro-rx"></block> （需登入 NetApp 支援網站）。</block>
+  <block id="fd164e9cb2bc1ac5405cabfe451663f7" category="cell">2 PIB （需要多個授權）</block>
+  <block id="2dbd9a217bce4c7ba4ef467f57d6875c" category="paragraph">您可以為 Cloud Volumes ONTAP BYOL 單一節點或 HA 配對系統購買多個節點型授權、以分配超過 368 TiB 的容量、最多可分配 2 PIB 的最大測試和支援系統容量限制。請注意、磁碟限制可能會讓您無法單獨使用磁碟來達到容量限制。您可以超越磁碟限制<block ref="aea0958203307daa433f894622f3e640" category="inline-link-rx"></block>。<block ref="ca37ce4dde5616ef242d545490c7e6ee" category="inline-link-rx"></block>。雖然 Cloud Volumes ONTAP 支援最多 2 個 PIB 的最大測試和支援系統容量、但超過 2 個 PIB 限制會導致系統組態不受支援。</block>
+  <block id="de9d6749570efc87e63811b5947fc250" category="paragraph">AWS Secret Cloud 和 Top Secret Cloud 地區支援從 Cloud Volumes ONTAP 9.12.1 開始購買多個節點型授權。</block>
 </blocks>
