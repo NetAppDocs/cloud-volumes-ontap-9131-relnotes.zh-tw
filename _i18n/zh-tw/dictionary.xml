@@ -713,4 +713,10 @@ HA 配對：節點中的 18 個 ^1^</block>
   <block id="540e57f70019c3eb8d7fb999259fd473" category="cell">頁面</block>
   <block id="6098d03c49b315476cd9c4d4eb330395" category="list-text">使用HA配對時、支援這些VM類型的高速寫入速度。Cloud Volumes ONTAP您可以在部署期間或之後的任何時間、從BlueXP啟用高速寫入速度。<block ref="18805b87db41583a67ecc2414d022f2b" category="inline-link-rx"></block>。</block>
   <block id="bcc4564bd7fc660f5dd5b39219b9775f" category="list-text">這些VM僅支援Cloud Volumes ONTAP 部署不支援使用支援的版本。有了這些VM類型、您可以將現有的頁面配置從Cloud Volumes ONTAP 版本資訊的版本9.11.1升級至9.12.1.您無法使用Cloud Volumes ONTAP 更新版本的更新版本執行新的頁面配置。</block>
+  <block id="93a8f424f80a11f2b0c8033863918070" category="section-title">9.13.1 P2 和 9.13.1 P3 （ 2023 年 10 月 20 日）</block>
+  <block id="1f5ba0320bb355ce1c84fa22d3320c81" category="paragraph">如果您有執行 3.9.26 版或更新版本的 Connector 、則所有雲端供應商都可以使用 9.13.1 P2 和 9.13.1 P3 修補程式 Cloud Volumes ONTAP 。BlueXP會提示您將現有系統升級至此修補程式版本。</block>
+  <block id="4c7cf73669136d536c96ca7317eb5ceb" category="inline-link-macro">檢視 P3 修補程式中修正的錯誤清單</block>
+  <block id="a4cdabe7d09534b66cc3588e7a6be157" category="list-text"><block ref="64910144ceff590b89d211507e69f99d" category="inline-link-macro-rx"></block> （需登入 NetApp 支援網站）。</block>
+  <block id="ce5d0c77f167b881391469fc27895727" category="inline-link-macro">檢視 P2 修補程式中修正的錯誤清單</block>
+  <block id="3a241c1cc236161cb13d8868799bd35d" category="list-text"><block ref="6401b436e7a7c9f3878e464100366d7a" category="inline-link-macro-rx"></block> （需登入 NetApp 支援網站）。</block>
 </blocks>
