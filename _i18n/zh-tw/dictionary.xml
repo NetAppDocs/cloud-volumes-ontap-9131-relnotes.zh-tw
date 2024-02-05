@@ -731,4 +731,8 @@ HA 配對：節點中的 18 個 ^1^</block>
   <block id="68c68c70121e1d9364223bb9fded83b0" category="list-text">BlueXP 從 Cloud Volumes ONTAP 9.13.1 開始</block>
   <block id="e9829882fb6e0848cde711ff5e6fcbb1" category="list-text">階層式複製深度是可從單一 FlexVol Volume 建立的 FlexClone 磁碟區巢狀階層的最大深度</block>
   <block id="ea8e9cb87ad8076ed2bdd562222045c8" category="cell">300 TB</block>
+  <block id="9be6e2b3828ef34b87981b1fed1d7d49" category="section-title">9.13.1 P6 （ 2024 年 2 月 5 日）</block>
+  <block id="45c3fd07b44be9221ac34d409aa7afa2" category="paragraph">所有雲端供應商現在都可以使用 Cloud Volumes ONTAP 的 9.13.1 P6 修補程式。BlueXP會提示您將現有系統升級至此修補程式版本。</block>
+  <block id="4d90d21642c7222312363da000d7409f" category="inline-link-macro">檢視在p6修補程式中修正的錯誤清單</block>
+  <block id="417efdf7267a8f2b68aa9938ecb8ed83" category="paragraph"><block ref="40427ff7eb35eecb9c6ff0d928baffa1" category="inline-link-macro-rx"></block> （需登入 NetApp 支援網站）。</block>
 </blocks>
