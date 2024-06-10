@@ -503,7 +503,6 @@ HA 配對：節點中的 18 個 ^1^</block>
   <block id="d5b5d1eda2a2c0d060f59094000e6aea" category="paragraph">因為它需要私有IP位址、所以會限制您可以建立的額外儲存VM數量。唯一的例外是多個AZs中的HA配對。在這種情況下、管理LIF的IP位址是_浮 點IP位址、因此不會計入_Private IP限制。</block>
   <block id="4f9154c68af93dc525373bf1a9c2edce" category="section-title">檔案與Volume限制</block>
   <block id="8e79313a5b6fb51ae3e76e64449c9f1d" category="cell">階層式複製深度^1^</block>
-  <block id="b07f6144410a8635e8ae505b186322a5" category="summary">這些版本資訊說明 Cloud Volumes ONTAP 9.13.1 的新功能、限制和已知問題。</block>
   <block id="a69b1618b78e74242413945e92315e51" category="doc">Cloud Volumes ONTAP 9.13.1 版本資訊</block>
   <block id="fa082ab1a05e05550971e6e5f583dcfe" category="summary">AWS支援多Cloud Volumes ONTAP 種支援的支援功能。</block>
   <block id="8bb0da4c260f565e0c8162ea9c2b7caa" category="doc">AWS支援的組態</block>
@@ -747,4 +746,5 @@ HA 配對：節點中的 18 個 ^1^</block>
   <block id="53ce0a94e090cdbb2c32cbf8aac660ce" category="paragraph">所有雲端供應商現在都可以使用 Cloud Volumes ONTAP 9.13.1 P9 修補程式。BlueXP會提示您將現有系統升級至此修補程式版本。</block>
   <block id="4b99ccc66c896711e2667fd1c7cc5a70" category="inline-link-macro">檢視 P9 修補程式中修正的錯誤清單</block>
   <block id="5e4596dae3990ec330418a9546e92a77" category="paragraph"><block ref="1e9f3632a6b42f23498b02cf3b6234ab" category="inline-link-macro-rx"></block> （需登入 NetApp 支援網站）。</block>
+  <block id="66929aea59eb5153444c9aa0a8e8722f" category="sidebar">這些版本資訊說明 Cloud Volumes ONTAP 9.13 的新功能、限制和已知問題。</block>
 </blocks>
