@@ -755,4 +755,11 @@ HA 配對：節點中的 18 個 ^1^</block>
   <block id="f171f0e8d194c2373f3cc30c09a319da" category="paragraph">所有雲端供應商現在都可以使用 Cloud Volumes ONTAP 9.13.1 P11 修補程式。BlueXP會提示您將現有系統升級至此修補程式版本。</block>
   <block id="4d51ff14f4691186785e9ce841b8db7c" category="inline-link-macro">檢視 P11 修補程式中修正的錯誤清單</block>
   <block id="4473c3792db930b11f3b08ad362c20a0" category="paragraph"><block ref="95ca1819697e369f884e111fea0785c3" category="inline-link-macro-rx"></block> （需要登入 NetApp 支援網站）。</block>
+  <block id="596423d773da4d74868ca1a577a8f423" category="paragraph">FabricPool 效能的一些改善可能會影響 Cloud Volumes ONTAP 中的階層式資料。</block>
+  <block id="97aaaff90c83c1de77726c6f8e7edfe5" category="paragraph-title">連續讀取速度和分層改善</block>
+  <block id="72104ef2281edd2d898132944d4a7d79" category="paragraph">由於 FabricPool 中的讀取效能和分層處理量有所改善，因此內部部署物件存放區的傳輸率和<block ref="3e75383a5992a6d15fb81e872e46e256" prefix=" " category="inline-code"></block>作業速度可能會較高<block ref="7528035a93ee69cedb1dbddb2f0bfcc8" prefix=" " category="inline-code"></block>。確保有足夠的效能預留空間，提供無縫的效能。</block>
+  <block id="a96f02a492680446509f1ea5ea14d111" category="paragraph-title">積極的預先讀取功能</block>
+  <block id="11239924a0f998971d2f090e7e50b3e0" category="paragraph"><block ref="567317ccd355e882ed3e573ab1b87615" prefix=" " category="inline-code"></block>FabricPool 的功能可能會增加檔案層級的讀取作業，進而增加公有雲的讀取成本和記憶體使用率。</block>
+  <block id="9e212a2c3e1a9570b60e318e22e8c381" category="paragraph-title">雲端寫入功能</block>
+  <block id="c2c4fca58f0994c8802a93fe1a04cd7d" category="paragraph">此功能可讓 NFS 用戶端直接寫入 FabricPool 中的容量層。此功能有一定限制，使用時請務必謹慎。例如，如果將雲端寫入 NFS 流量新增至一般 ONTAP 流量（例如 SnapMirror ）， SnapMirror 中的整體恢復點目標（ RPO ）和恢復時間目標（ RTO ）可能會受到影響。</block>
 </blocks>
