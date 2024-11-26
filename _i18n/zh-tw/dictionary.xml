@@ -503,7 +503,6 @@ HA 配對：節點中的 18 個 ^1^</block>
   <block id="d5b5d1eda2a2c0d060f59094000e6aea" category="paragraph">因為它需要私有IP位址、所以會限制您可以建立的額外儲存VM數量。唯一的例外是多個AZs中的HA配對。在這種情況下、管理LIF的IP位址是_浮 點IP位址、因此不會計入_Private IP限制。</block>
   <block id="4f9154c68af93dc525373bf1a9c2edce" category="section-title">檔案與Volume限制</block>
   <block id="8e79313a5b6fb51ae3e76e64449c9f1d" category="cell">階層式複製深度^1^</block>
-  <block id="a69b1618b78e74242413945e92315e51" category="doc">Cloud Volumes ONTAP 9.13.1 版本資訊</block>
   <block id="fa082ab1a05e05550971e6e5f583dcfe" category="summary">AWS支援多Cloud Volumes ONTAP 種支援的支援功能。</block>
   <block id="8bb0da4c260f565e0c8162ea9c2b7caa" category="doc">AWS支援的組態</block>
   <block id="7db0f9060b8b2def82346add7b8e89c0" category="section-title">支援的節點數</block>
@@ -765,11 +764,11 @@ HA 配對：節點中的 18 個 ^1^</block>
   <block id="1b62edb82c1bd156e44ee97345e44486" category="paragraph">所有雲端供應商現在都可以使用 Cloud Volumes ONTAP 9.13.1 P12 修補程式。BlueXP會提示您將現有系統升級至此修補程式版本。</block>
   <block id="8a1258bf37cf0340b92dd9f9ca39acfa" category="inline-link-macro">檢視 P12 修補程式中修正的錯誤清單</block>
   <block id="455214c21df5263f6ed36c053cb45a4e" category="paragraph"><block ref="9c93dffbb4ec23fa855293479535be60" category="inline-link-macro-rx"></block> （需要登入 NetApp 支援網站）。</block>
-  <block id="e107edea5015f3e06a3e74dda1dc6b6f" category="inline-link">FabricPool 最佳實務做法指南</block>
-  <block id="35817b290a25aecb5178d7e9eaf01a17" category="paragraph">若要深入瞭解，請參閱<block ref="a846ee339ee812c7fc25a76975d73fb9" category="inline-link-rx"></block></block>
   <block id="417d564baf44c113e38a023e8ac69531" category="inline-link">啟用和停用主動式預先讀取模式</block>
   <block id="40a618f301b0824dc71ab1ceed4fe45d" category="paragraph">如需詳細資訊，請參閱 ONTAP 文件：<block ref="5ac0d9b6b12766db0ad38c087c84f3bf" category="inline-link-rx"></block></block>
   <block id="555816af48eeb34081ba83c44d62bd87" category="inline-link">啟用和停用磁碟區、以直接寫入雲端</block>
   <block id="08580da782a41b39a0487a40d392a946" category="paragraph">如需詳細資訊，請參閱 ONTAP 文件：<block ref="31143d7508b448ef79ac6c1971109dcf" category="inline-link-rx"></block></block>
   <block id="a6fe7cde79de251ddde0aaad9dbb2181" category="sidebar">Cloud Volumes ONTAP 9.13.1 版本資訊</block>
+  <block id="9a0e7479c9cf0eb3c5daeee67a193e9c" category="inline-link">FabricPool 最佳實務做法指南</block>
+  <block id="5136c1f236d74f0ffec89821cebaa3c3" category="paragraph">若要深入瞭解，請參閱<block ref="b2bafa57d3373ad362797046a95bb197" category="inline-link-rx"></block></block>
 </blocks>
