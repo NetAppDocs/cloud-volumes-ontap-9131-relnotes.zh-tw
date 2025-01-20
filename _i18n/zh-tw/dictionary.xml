@@ -771,4 +771,8 @@ HA 配對：節點中的 18 個 ^1^</block>
   <block id="a6fe7cde79de251ddde0aaad9dbb2181" category="sidebar">Cloud Volumes ONTAP 9.13.1 版本資訊</block>
   <block id="9a0e7479c9cf0eb3c5daeee67a193e9c" category="inline-link">FabricPool 最佳實務做法指南</block>
   <block id="5136c1f236d74f0ffec89821cebaa3c3" category="paragraph">若要深入瞭解，請參閱<block ref="b2bafa57d3373ad362797046a95bb197" category="inline-link-rx"></block></block>
+  <block id="5dcdcbd9bd4045323fae4dfb5f4ef0ac" category="section-title">9.13.1 第 13 頁（ 2025 年 1 月 20 日）</block>
+  <block id="22067bef00fafa857cd29657fd57d4db" category="paragraph">所有雲端供應商現在都可以使用 Cloud Volumes ONTAP 9.13.1 P13 修補程式。BlueXP會提示您將現有系統升級至此修補程式版本。</block>
+  <block id="fc8e67b0bd5bbf26831e34a1066ac996" category="inline-link-macro">檢視 P13 修補程式中修正的錯誤清單</block>
+  <block id="5eabc8a0c0c39c74fb8dc252d1f4b0a4" category="paragraph"><block ref="2b43c2e9c454c5dada52848a3d251b6a" category="inline-link-macro-rx"></block> （需要登入 NetApp 支援網站）。</block>
 </blocks>
