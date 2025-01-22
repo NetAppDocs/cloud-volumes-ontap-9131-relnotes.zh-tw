@@ -775,4 +775,6 @@ HA 配對：節點中的 18 個 ^1^</block>
   <block id="22067bef00fafa857cd29657fd57d4db" category="paragraph">所有雲端供應商現在都可以使用 Cloud Volumes ONTAP 9.13.1 P13 修補程式。BlueXP會提示您將現有系統升級至此修補程式版本。</block>
   <block id="fc8e67b0bd5bbf26831e34a1066ac996" category="inline-link-macro">檢視 P13 修補程式中修正的錯誤清單</block>
   <block id="5eabc8a0c0c39c74fb8dc252d1f4b0a4" category="paragraph"><block ref="2b43c2e9c454c5dada52848a3d251b6a" category="inline-link-macro-rx"></block> （需要登入 NetApp 支援網站）。</block>
+  <block id="c3647f40e3574e0e6f49e20c19135bfa" category="section-title">使用 Azure VM 延伸功能的限制</block>
+  <block id="9d167ed7d52d81da8d83590ec3b5a4af" category="paragraph">Cloud Volumes ONTAP 不支援部署中的 Azure 虛擬機器（ VM ）延伸功能和 VM 應用程式。在 Azure 中使用 Cloud Volumes ONTAP 搭配 VM 延伸功能會導致作業延遲， NetApp 建議您避免這些延遲。</block>
 </blocks>
