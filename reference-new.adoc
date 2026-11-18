@@ -16,7 +16,18 @@ summary: Cloud Volumes ONTAP 9.13.1 包含新的增強功能。
 [role="lead"]
 Cloud Volumes ONTAP 9.13.1 包含新的增強功能。
 
-最新版的BlueXP也會提供其他功能和增強功能。請參閱 https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/whats-new.html["BlueXP版本說明"^] 以取得詳細資料。
+最新版本的 NetApp Console 還引入了其他功能和改進。詳情請參閱 link:https://docs.netapp.com/us-en/storage-management-cloud-volumes-ontap/whats-new.html["Cloud Volumes ONTAP"^]。
+
+
+
+[[9-13-1-p21hf1-12-november-2026]]
+== 9.13.1 P21HF1（2026年11月12日）
+
+適用於所有雲端供應商的 Cloud Volumes ONTAP 9.13.1 P21HF1 修補程式現已發布。此修補程式與 ONTAP 9.13.1 Hotfix 相容。
+
+對於您的 Cloud Volumes ONTAP 系統，控制台可能會提示您升級到此 Hotfix。但是，此 Hotfix 僅在控制台代理程式版本為 4.12.0 或更新版本時才支援。如果控制台代理程式版本低於 4.12.0，請忽略此提示。
+
+link:https://docs.netapp.com/us-en/console-setup-admin/whats-new.html#console-agent-4-12-0["Console 代理 4.12.0"^]
 
 
 
